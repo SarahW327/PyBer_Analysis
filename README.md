@@ -11,3 +11,7 @@ Referring to the below graph is our final graph and results. What the graph show
 ![Fig8](https://user-images.githubusercontent.com/92561938/152630624-f4cd9f6e-f0d2-4947-a731-b6e9d086a2fb.png)
 Differences along this final result was each city does not have the same amount of people and does not have the same amount of drivers of each type of city. 
 ### Summary
+With these results, these are three business recommendations for the CEO for addressing any disparities among the city types:
+- Target marketing towards Rural and Suburban areas.
+- Either increase the fare rates for rural and suburban areas or decrease the fare rates for urban areas.
+- Hiring more drivers in Rural and Suburban areas or cutting down the amount of drivers in Urban areas. 
